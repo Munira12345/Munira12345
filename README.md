@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=munira12345" alt="munira12345" /></a> </p>
 
-- 🔭 I’m currently working on **Flutter app**
+- 🔭 I’m currently working on **Flutter and Jetpack compose apps**
 
 - 🌱 I’m currently learning **Backend development;springboot**
 
@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://munirangomo1.notion.site/Munira-Ngomo-Portfolio-1acc7f4ebc3c80f0af9ec2ee2ced0e16](https://munirangomo1.notion.site/Munira-Ngomo-Portfolio-1acc7f4ebc3c80f0af9ec2ee2ced0e16)
 
-- 📝 I regularly write articles on [Mobile development techniques Im learning and my tips for navigating tech projects](Mobile development techniques Im learning and my tips for navigating tech projects)
+- 📝 I regularly write articles on [Mobile development techniques Im learning and my tips for navigating tech projects]
 
 - 💬 Ask me about **Kotlin, Java, Flutter and React Native**
 
