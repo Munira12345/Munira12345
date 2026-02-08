@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on **Flutter and Jetpack compose apps**
 
-- 🌱 I’m currently learning **Backend development;springboot**
+- 🌱 I’m currently learning **Data and AI **
 
-- 🤝 I’m looking for help with **DevOps**
+- 🤝 I’m looking for help with **iOS Development**
 
 - 👨‍💻 All of my projects are available at [https://munirangomo1.notion.site/Munira-Ngomo-Portfolio-1acc7f4ebc3c80f0af9ec2ee2ced0e16](https://munirangomo1.notion.site/Munira-Ngomo-Portfolio-1acc7f4ebc3c80f0af9ec2ee2ced0e16)
 
@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **Kotlin, Java, Flutter and React Native**
 
-- 📫 How to reach me **munirangomo@gmail.com**
+- 📫 How to reach me **email**
 
 - 📄 Know about my experiences [https://munirangomo1.notion.site/Munira-Ngomo-Portfolio-1acc7f4ebc3c80f0af9ec2ee2ced0e16](https://munirangomo1.notion.site/Munira-Ngomo-Portfolio-1acc7f4ebc3c80f0af9ec2ee2ced0e16)
 
