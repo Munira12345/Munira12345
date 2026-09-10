@@ -80,13 +80,8 @@
 </p>
 
 ### 📊 GitHub Stats
- src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://vuepress.vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/AliasIO/wappalyzer/master/src/drivers/webextension/images/icons/VuePress.svg" alt="vuepress" width="40" height="40"/> </a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=munira12345&show_icons=true&locale=en&layout=compact" alt="munira12345" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=munira12345&show_icons=true&locale=en" alt="munira12345" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=munira12345&" alt="munira12345" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=munira12345&show_icons=true&locale=en" alt="munira12345" /></p>
 
